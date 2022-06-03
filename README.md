@@ -90,3 +90,5 @@ In other words,  𝐺𝑖𝑗  compares how similar  𝑣𝑖  is to  𝑣𝑗 :
 # The end result is obtained as:
 ![image](https://user-images.githubusercontent.com/86974424/171831567-9e8985bf-ed42-4291-b760-ae33992f0cde.png)
 
+# Another Example:
+![image](https://user-images.githubusercontent.com/86974424/171833310-76edff15-a3c9-41ed-b38f-d8b8a0c8c0c5.png)
